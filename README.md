@@ -1,4 +1,6 @@
 rm04-wifi-video-serial
 ======================
 
-Tuned openwrt to RM04 micro linux board for video streaming and serial over Wifi
+Tuned openwrt to RM04 micro linux board for video streaming and serial over Wifi.
+
+WORK in progress !
