@@ -1,0 +1,8 @@
+config mjpg-streamer 'core'
+        option enabled '1'
+        option input 'uvc'
+        option output 'http'
+        option device '/dev/video0'
+        option resolution '640x480'
+        option fps '20'
+        option port '8080'
