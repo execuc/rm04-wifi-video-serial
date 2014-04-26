@@ -17,7 +17,7 @@ config wifi-iface
         option device   radio0
         option network  'lan'
         option mode     'ap'
-        option ssid     'OpenCamTest'
+        option ssid     'OpenWrtStreaming'
         option encryption 'psk2'
-        option key      '987openwrt123'
+        option key      'openwrtrm04'
 
